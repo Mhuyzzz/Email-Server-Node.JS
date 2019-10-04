@@ -1,0 +1,26 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "a sample node.js email server.",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"start\": \"node server.js\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mhuyzzz/Email-Server-Node.JS.git"
+  },
+  "keywords": [
+    "\"example\""
+  ],
+  "author": "Mark Anthony Feting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mhuyzzz/Email-Server-Node.JS/issues"
+  },
+  "homepage": "https://github.com/Mhuyzzz/Email-Server-Node.JS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
